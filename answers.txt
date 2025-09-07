@@ -5,4 +5,4 @@
     nothing to update. One way to make sure this doesn't happen is to include a couple of lines of code in the script
     so that the output file is only overwritten if actual changes are made. It might also help to make sure that the
     proper dependencies are being tracked in the C files.
-(4)
+(4) The error is that there is no "bool" type in C. Only 0 and 1 exist. 
