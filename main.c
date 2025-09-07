@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include "status.h"
 
 int main()
 {
-	printf("Hello");
+	printf("ENROLLED: %d\n", ENROLLED);
 	return 0;
 }
