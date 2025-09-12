@@ -1,0 +1,13 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "bubblesort.c"
+    ],
+    "directory": "/home/JohnMoe/c-review-JohnYunMoe",
+    "file": "/home/JohnMoe/c-review-JohnYunMoe/bubblesort.c"
+  }
+]

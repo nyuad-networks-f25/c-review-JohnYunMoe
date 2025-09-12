@@ -1,3 +1,4 @@
+PLAYING AROUND WITH MAKEFILE
 (1) The error is that the main.c file is empty, the fix is to add a couple lines of code that do something or to 
     just return 0.
 (2) By making a .gitignore file and adding the name of the executable file in that file. 
@@ -11,3 +12,6 @@
 (6) Done in makefile. 
 (7) Errors are : "unknown type name ‘student_t’" and "unused variable ‘student1’". The fix is to include the 
     student.h header into the main.c. 
+
+DATA TYPES
+(1)
