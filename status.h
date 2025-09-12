@@ -1,2 +1,5 @@
 #include <stdbool.h>
-const bool ENROLLED = true;
+#ifndef STATUS_H
+#define STATUS_H
+#define ENROLLED false
+#endif
