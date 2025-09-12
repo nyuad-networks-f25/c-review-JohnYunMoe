@@ -1,5 +1,7 @@
-main: main.c
-	gcc main.c
+main: main.c status.h student.h
+	gcc -Wall -Wextra -std=c99 -o main main.c 
 
 clean:
-	rm main
+	rm -f main
+
+.PHONY: clean
